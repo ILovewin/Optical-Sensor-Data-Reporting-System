@@ -1,0 +1,2 @@
+# Optical-Sensor-Data-Reporting-System
+两块STM32L475的板子结合两个Lora模块定向传输完成环境数据采集、传输和显示，并且通过ESP32接入阿里云物联网平台上报采集的传感器数据以及实现远程点灯控制。
